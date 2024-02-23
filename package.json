@@ -1,24 +1,8 @@
 {
-  "name": "google-books",
-  "version": "1.0.0",
-  "description": "A simple application to search books from the Google resources",
-  "main": "index.js",
-  "scripts": {
-    "dev": "next",
-    "build": "next build",
-    "start": "next start",
-    "deploy": "rm -rf node_modules/.cache && next build && next export && touch out/.nojekyll && git add out/ && git commit -m \"Deploy Next.js to gh-pages\" && git subtree push --prefix out origin gh-pages"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://sonjoydatta@github.com/sonjoydatta/google-books.git"
-  },
   "author": "Sonjoy Datta",
-  "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sonjoydatta/google-books/issues"
+    "url": "https://github.com/sachnaror/Search-Books-NextJS/issues"
   },
-  "homepage": "https://sonjoydatta.github.io/google-books",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.28",
     "@fortawesome/free-brands-svg-icons": "^5.13.0",
@@ -35,8 +19,24 @@
     "react-dom": "^18.2.0",
     "react-moment": "^0.9.7"
   },
+  "description": "A simple application to search books from the Google resources",
   "devDependencies": {
     "babel-plugin-transform-define": "^2.0.0",
     "sass": "^1.26.5"
-  }
+  },
+  "homepage": "https://sachnaror.github.io/Search-Books-NextJS/",
+  "license": "ISC",
+  "main": "index.js",
+  "name": "google-books",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sachnaror/Search-Books-NextJS"
+  },
+  "scripts": {
+    "build": "next build",
+    "deploy": "rm -rf node_modules/.cache && next build && next export && touch out/.nojekyll && git add out/ && git commit -m \"Deploy Next.js to gh-pages\" && git subtree push --prefix out origin gh-pages",
+    "dev": "next",
+    "start": "next start"
+  },
+  "version": "1.0.0"
 }
