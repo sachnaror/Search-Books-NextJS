@@ -6,7 +6,7 @@ Google Books Search is a [Next.js](https://nextjs.org/) project which used the [
 
 ## Demo
 
-[Google Books Search - Live Demo](https://sonjoydatta.github.io/google-books/)
+[Google Books Search - Live Demo](https://sachnaror.github.io/Search-Books-NextJS/)
 
 ## Tools
 
@@ -30,10 +30,4 @@ Google Books Search is a [Next.js](https://nextjs.org/) project which used the [
 
 ## Author
 
-This is Sonjoy Datta. I am a Front-end Web Developer. I am experienced in ReactJs, NextJs, NodeJs, Bootstrap, HTML5, CSS3, SASS/LESS, Laravel, WordPress, GIT, Bitbucket, etc. Alongside this, I am also working with database architecture development. For more about me please check,
-
-[Website](https://sonjoydatta.me), [LinkedIn](https://www.linkedin.com/in/sonjoydatta)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/sonjoydatta/google-books/blob/master/LICENSE) file for details.
+This is Sachin. I am a Full-Stack Developer. I am experienced in NextJs, Python (Django, FastAPI, Falcon), Bootstrap, HTML5, CSS3, SASS/LESS, Laravel, WordPress, GIT, Bitbucket, etc. Alongside this, I am also working with database architecture development.
