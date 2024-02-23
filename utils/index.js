@@ -1,8 +1,8 @@
-export const isEmpty = ( obj ) => {
+export const isEmpty = (obj) => {
   return Object.keys(obj).length === 0;
 }
 
-export const truncate = ( source, size ) => {
+export const truncate = (source, size) => {
   return source.length > size ? source.slice(0, size - 1) + "..." : source;
 }
 
